@@ -1,0 +1,17 @@
+{
+  "name": "Clinet",
+  "version": "0.0.1",
+  "author": "Mayank Saxena",
+  "private": true,
+  "dependencies": {
+    "socket.io": "0.9.x",
+    "socket.io-stream": "0.5.x",
+    "socket.io-client": "0.9.x",
+    "readable-stream": "1.1.x",
+    "debug": "0.7.X"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": "0.10.x"
+  }
+}
