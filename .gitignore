@@ -1,0 +1,11 @@
+#################  
+## npm
+#################
+
+npm-debug.log
+node_modules/
+!/rest-api/node_modules/*/node-modules/
+!/angular-app/node_modules/*/node-modules/
+!/angular-app/app/exported_charts/*
+!/angular-app/app/tmp_pdf_files/*
+!/angular-app/app/build/*
